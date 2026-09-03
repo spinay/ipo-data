@@ -1,6 +1,6 @@
 {
-  "version": "2026-09-03T06:43:51.775Z",
-  "count": 19,
+  "version": "2026-09-03T23:24:25.287Z",
+  "count": 20,
   "ipos": [
     {
       "canonical_key": "2026-03-19_리센스메디컬",
@@ -237,7 +237,7 @@
       "underwriters": [
         "한국투자증권"
       ],
-      "status": "waitingListing",
+      "status": "listed",
       "competition_rate": null,
       "dart_corp_code": "01586923"
     },
@@ -448,6 +448,29 @@
       "status": "upcoming",
       "competition_rate": null,
       "dart_corp_code": "01956751"
+    },
+    {
+      "canonical_key": "2026-10-20_티앤이코리아",
+      "company_name": "티앤이코리아",
+      "sector": "IPO",
+      "business_summary": "",
+      "demand_start": null,
+      "demand_end": null,
+      "subscription_start": "2026-10-20",
+      "subscription_end": "2026-10-21",
+      "refund_date": "2026-10-23",
+      "listing_date": null,
+      "price_band_low": null,
+      "price_band_high": null,
+      "confirmed_price": 12600,
+      "min_subscription_qty": 10,
+      "deposit_ratio": 0.5,
+      "underwriters": [
+        "신한투자증권"
+      ],
+      "status": "upcoming",
+      "competition_rate": null,
+      "dart_corp_code": "01543043"
     }
   ]
 }
