@@ -1,6 +1,6 @@
 {
-  "version": "2026-09-09T03:27:52.260Z",
-  "count": 23,
+  "version": "2026-09-10T03:25:51.316Z",
+  "count": 24,
   "ipos": [
     {
       "canonical_key": "2026-03-19_리센스메디컬",
@@ -260,7 +260,7 @@
       "underwriters": [
         "대신증권"
       ],
-      "status": "upcoming",
+      "status": "subscribing",
       "competition_rate": null,
       "dart_corp_code": "01876251"
     },
@@ -471,6 +471,30 @@
       "status": "upcoming",
       "competition_rate": null,
       "dart_corp_code": "01749559"
+    },
+    {
+      "canonical_key": "2026-10-19_유캐스트",
+      "company_name": "유캐스트",
+      "sector": "IPO",
+      "business_summary": "",
+      "demand_start": null,
+      "demand_end": null,
+      "subscription_start": "2026-10-19",
+      "subscription_end": "2026-10-20",
+      "refund_date": "2026-10-22",
+      "listing_date": null,
+      "price_band_low": null,
+      "price_band_high": null,
+      "confirmed_price": 21000,
+      "min_subscription_qty": 10,
+      "deposit_ratio": 0.5,
+      "underwriters": [
+        "유진증권",
+        "신영증권"
+      ],
+      "status": "upcoming",
+      "competition_rate": null,
+      "dart_corp_code": "01705573"
     },
     {
       "canonical_key": "2026-10-20_크리에이츠",
