@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-13T03:34:24.731Z",
+  "version": "2026-09-14T03:43:59.753Z",
   "count": 25,
   "ipos": [
     {
@@ -283,7 +283,7 @@
       "underwriters": [
         "대신증권"
       ],
-      "status": "upcoming",
+      "status": "subscribing",
       "competition_rate": null,
       "dart_corp_code": "01867688"
     },
