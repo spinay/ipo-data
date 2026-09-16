@@ -1,6 +1,6 @@
 {
-  "version": "2026-09-15T03:44:39.109Z",
-  "count": 25,
+  "version": "2026-09-16T03:41:32.197Z",
+  "count": 26,
   "ipos": [
     {
       "canonical_key": "2026-03-19_리센스메디컬",
@@ -251,7 +251,7 @@
       "subscription_start": "2026-09-10",
       "subscription_end": "2026-09-11",
       "refund_date": "2026-09-15",
-      "listing_date": null,
+      "listing_date": "2026-09-21",
       "price_band_low": null,
       "price_band_high": null,
       "confirmed_price": 13800,
@@ -260,7 +260,7 @@
       "underwriters": [
         "대신증권"
       ],
-      "status": "closed",
+      "status": "waitingListing",
       "competition_rate": null,
       "dart_corp_code": "01876251"
     },
@@ -283,7 +283,7 @@
       "underwriters": [
         "대신증권"
       ],
-      "status": "subscribing",
+      "status": "closed",
       "competition_rate": null,
       "dart_corp_code": "01867688"
     },
@@ -306,7 +306,7 @@
       "underwriters": [
         "한국투자증권"
       ],
-      "status": "upcoming",
+      "status": "subscribing",
       "competition_rate": null,
       "dart_corp_code": "01564514"
     },
@@ -329,7 +329,7 @@
       "underwriters": [
         "대신증권"
       ],
-      "status": "upcoming",
+      "status": "subscribing",
       "competition_rate": null,
       "dart_corp_code": "00960623"
     },
@@ -495,6 +495,29 @@
       "status": "upcoming",
       "competition_rate": null,
       "dart_corp_code": "00534729"
+    },
+    {
+      "canonical_key": "2026-10-19_다비오",
+      "company_name": "다비오",
+      "sector": "IPO",
+      "business_summary": "",
+      "demand_start": null,
+      "demand_end": null,
+      "subscription_start": "2026-10-19",
+      "subscription_end": "2026-10-20",
+      "refund_date": "2026-10-22",
+      "listing_date": null,
+      "price_band_low": null,
+      "price_band_high": null,
+      "confirmed_price": 12300,
+      "min_subscription_qty": 10,
+      "deposit_ratio": 0.5,
+      "underwriters": [
+        "대신증권"
+      ],
+      "status": "upcoming",
+      "competition_rate": null,
+      "dart_corp_code": "01706509"
     },
     {
       "canonical_key": "2026-10-19_유캐스트",
