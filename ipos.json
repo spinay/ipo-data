@@ -1,6 +1,6 @@
 {
-  "version": "2026-09-16T03:41:32.197Z",
-  "count": 26,
+  "version": "2026-09-17T03:46:41.244Z",
+  "count": 27,
   "ipos": [
     {
       "canonical_key": "2026-03-19_리센스메디컬",
@@ -274,7 +274,7 @@
       "subscription_start": "2026-09-14",
       "subscription_end": "2026-09-15",
       "refund_date": "2026-09-17",
-      "listing_date": null,
+      "listing_date": "2026-09-23",
       "price_band_low": null,
       "price_band_high": null,
       "confirmed_price": 10000,
@@ -283,7 +283,7 @@
       "underwriters": [
         "대신증권"
       ],
-      "status": "closed",
+      "status": "waitingListing",
       "competition_rate": null,
       "dart_corp_code": "01867688"
     },
@@ -352,7 +352,7 @@
       "underwriters": [
         "IBK투자증권"
       ],
-      "status": "upcoming",
+      "status": "subscribing",
       "competition_rate": null,
       "dart_corp_code": "01801026"
     },
@@ -588,6 +588,29 @@
       "status": "upcoming",
       "competition_rate": null,
       "dart_corp_code": "01543043"
+    },
+    {
+      "canonical_key": "2026-10-21_인텔리빅스",
+      "company_name": "인텔리빅스",
+      "sector": "IPO",
+      "business_summary": "",
+      "demand_start": null,
+      "demand_end": null,
+      "subscription_start": "2026-10-21",
+      "subscription_end": "2026-10-22",
+      "refund_date": "2026-10-26",
+      "listing_date": null,
+      "price_band_low": null,
+      "price_band_high": null,
+      "confirmed_price": 7600,
+      "min_subscription_qty": 10,
+      "deposit_ratio": 0.5,
+      "underwriters": [
+        "미래에셋증권"
+      ],
+      "status": "upcoming",
+      "competition_rate": null,
+      "dart_corp_code": "01649408"
     },
     {
       "canonical_key": "2026-11-02_바로팜",
