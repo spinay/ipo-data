@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-18T07:34:19.761Z",
+  "version": "2026-09-19T03:31:09.253Z",
   "count": 27,
   "ipos": [
     {
@@ -352,7 +352,7 @@
       "underwriters": [
         "IBK투자증권"
       ],
-      "status": "subscribing",
+      "status": "closed",
       "competition_rate": 1187.74,
       "dart_corp_code": "01801026"
     },
@@ -378,29 +378,6 @@
       "status": "upcoming",
       "competition_rate": null,
       "dart_corp_code": "01028933"
-    },
-    {
-      "canonical_key": "2026-10-06_엠비디",
-      "company_name": "엠비디",
-      "sector": "IPO",
-      "business_summary": "",
-      "demand_start": null,
-      "demand_end": null,
-      "subscription_start": "2026-10-06",
-      "subscription_end": "2026-10-07",
-      "refund_date": "2026-10-12",
-      "listing_date": null,
-      "price_band_low": 9400,
-      "price_band_high": 11500,
-      "confirmed_price": 9400,
-      "min_subscription_qty": 10,
-      "deposit_ratio": 0.5,
-      "underwriters": [
-        "하나증권"
-      ],
-      "status": "upcoming",
-      "competition_rate": null,
-      "dart_corp_code": "01705740"
     },
     {
       "canonical_key": "2026-10-07_엘리스그룹",
@@ -611,6 +588,29 @@
       "status": "upcoming",
       "competition_rate": null,
       "dart_corp_code": "01649408"
+    },
+    {
+      "canonical_key": "2026-10-28_엠비디",
+      "company_name": "엠비디",
+      "sector": "IPO",
+      "business_summary": "",
+      "demand_start": null,
+      "demand_end": null,
+      "subscription_start": "2026-10-28",
+      "subscription_end": "2026-10-29",
+      "refund_date": "2026-11-02",
+      "listing_date": null,
+      "price_band_low": 9400,
+      "price_band_high": 11500,
+      "confirmed_price": null,
+      "min_subscription_qty": 10,
+      "deposit_ratio": 0.5,
+      "underwriters": [
+        "하나증권"
+      ],
+      "status": "upcoming",
+      "competition_rate": null,
+      "dart_corp_code": "01705740"
     },
     {
       "canonical_key": "2026-11-02_바로팜",
