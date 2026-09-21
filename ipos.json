@@ -1,6 +1,6 @@
 {
-  "version": "2026-09-21T05:03:24.165Z",
-  "count": 27,
+  "version": "2026-09-21T06:56:22.914Z",
+  "count": 29,
   "ipos": [
     {
       "canonical_key": "2026-03-19_리센스메디컬",
@@ -320,7 +320,7 @@
       "subscription_start": "2026-09-16",
       "subscription_end": "2026-09-17",
       "refund_date": "2026-09-21",
-      "listing_date": null,
+      "listing_date": "2026-09-30",
       "price_band_low": 12400,
       "price_band_high": 14600,
       "confirmed_price": 14600,
@@ -329,7 +329,7 @@
       "underwriters": [
         "대신증권"
       ],
-      "status": "closed",
+      "status": "waitingListing",
       "competition_rate": 868.64,
       "dart_corp_code": "00960623"
     },
@@ -588,6 +588,52 @@
       "status": "upcoming",
       "competition_rate": null,
       "dart_corp_code": "01649408"
+    },
+    {
+      "canonical_key": "2026-10-22_이에스티",
+      "company_name": "이에스티",
+      "sector": "IPO",
+      "business_summary": "",
+      "demand_start": null,
+      "demand_end": null,
+      "subscription_start": "2026-10-22",
+      "subscription_end": "2026-10-23",
+      "refund_date": "2026-10-27",
+      "listing_date": null,
+      "price_band_low": 10600,
+      "price_band_high": 12400,
+      "confirmed_price": null,
+      "min_subscription_qty": 10,
+      "deposit_ratio": 0.5,
+      "underwriters": [
+        "대신증권"
+      ],
+      "status": "upcoming",
+      "competition_rate": null,
+      "dart_corp_code": "01378005"
+    },
+    {
+      "canonical_key": "2026-10-26_에이엘로봇",
+      "company_name": "에이엘로봇",
+      "sector": "IPO",
+      "business_summary": "",
+      "demand_start": null,
+      "demand_end": null,
+      "subscription_start": "2026-10-26",
+      "subscription_end": "2026-10-27",
+      "refund_date": "2026-10-29",
+      "listing_date": null,
+      "price_band_low": 15700,
+      "price_band_high": 17600,
+      "confirmed_price": null,
+      "min_subscription_qty": 10,
+      "deposit_ratio": 0.5,
+      "underwriters": [
+        "대신증권"
+      ],
+      "status": "upcoming",
+      "competition_rate": null,
+      "dart_corp_code": "01797635"
     },
     {
       "canonical_key": "2026-10-28_엠비디",
