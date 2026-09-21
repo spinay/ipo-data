@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-20T03:47:15.716Z",
+  "version": "2026-09-21T02:57:39.086Z",
   "count": 27,
   "ipos": [
     {
@@ -61,8 +61,8 @@
       "subscription_end": "2026-04-21",
       "refund_date": "2026-04-22",
       "listing_date": "2026-04-29",
-      "price_band_low": null,
-      "price_band_high": null,
+      "price_band_low": 12300,
+      "price_band_high": 15300,
       "confirmed_price": 15300,
       "min_subscription_qty": 10,
       "deposit_ratio": 0.5,
@@ -73,7 +73,7 @@
         "하나증권"
       ],
       "status": "listed",
-      "competition_rate": null,
+      "competition_rate": 55.23,
       "dart_corp_code": "01279698"
     },
     {
@@ -87,8 +87,8 @@
       "subscription_end": "2026-04-28",
       "refund_date": "2026-04-29",
       "listing_date": "2026-05-11",
-      "price_band_low": null,
-      "price_band_high": null,
+      "price_band_low": 5300,
+      "price_band_high": 6000,
       "confirmed_price": 6000,
       "min_subscription_qty": 10,
       "deposit_ratio": 0.5,
@@ -98,7 +98,7 @@
         "유안타증권"
       ],
       "status": "listed",
-      "competition_rate": null,
+      "competition_rate": 1140.11,
       "dart_corp_code": "01802928"
     },
     {
@@ -112,8 +112,8 @@
       "subscription_end": "2026-05-06",
       "refund_date": "2026-05-07",
       "listing_date": "2026-05-14",
-      "price_band_low": null,
-      "price_band_high": null,
+      "price_band_low": 4100,
+      "price_band_high": 5000,
       "confirmed_price": 5000,
       "min_subscription_qty": 10,
       "deposit_ratio": 0.5,
@@ -121,7 +121,7 @@
         "NH투자증권"
       ],
       "status": "listed",
-      "competition_rate": null,
+      "competition_rate": 1486.66,
       "dart_corp_code": "01565364"
     },
     {
@@ -135,8 +135,8 @@
       "subscription_end": "2026-05-12",
       "refund_date": "2026-05-13",
       "listing_date": "2026-05-20",
-      "price_band_low": null,
-      "price_band_high": null,
+      "price_band_low": 12500,
+      "price_band_high": 15000,
       "confirmed_price": 15000,
       "min_subscription_qty": 10,
       "deposit_ratio": 0.5,
@@ -145,7 +145,7 @@
         "현대차증권"
       ],
       "status": "listed",
-      "competition_rate": null,
+      "competition_rate": 1196.08,
       "dart_corp_code": "01709065"
     },
     {
@@ -159,8 +159,8 @@
       "subscription_end": "2026-05-12",
       "refund_date": "2026-05-13",
       "listing_date": "2026-06-30",
-      "price_band_low": null,
-      "price_band_high": null,
+      "price_band_low": 12000,
+      "price_band_high": 14000,
       "confirmed_price": 14800,
       "min_subscription_qty": 10,
       "deposit_ratio": 0.5,
@@ -182,8 +182,8 @@
       "subscription_end": "2026-05-21",
       "refund_date": "2026-05-24",
       "listing_date": "2026-06-08",
-      "price_band_low": null,
-      "price_band_high": null,
+      "price_band_low": 19000,
+      "price_band_high": 21500,
       "confirmed_price": 21500,
       "min_subscription_qty": 10,
       "deposit_ratio": 0.5,
@@ -192,7 +192,7 @@
         "미래에셋증권"
       ],
       "status": "listed",
-      "competition_rate": null,
+      "competition_rate": 847.76,
       "dart_corp_code": "01755259"
     },
     {
@@ -206,8 +206,8 @@
       "subscription_end": "2026-06-02",
       "refund_date": "2026-06-03",
       "listing_date": "2026-07-01",
-      "price_band_low": null,
-      "price_band_high": null,
+      "price_band_low": 7000,
+      "price_band_high": 8000,
       "confirmed_price": 8000,
       "min_subscription_qty": 10,
       "deposit_ratio": 0.5,
@@ -215,7 +215,7 @@
         "미래에셋증권"
       ],
       "status": "listed",
-      "competition_rate": null,
+      "competition_rate": 1396.29,
       "dart_corp_code": "01379129"
     },
     {
@@ -231,7 +231,7 @@
       "listing_date": "2026-09-04",
       "price_band_low": 13000,
       "price_band_high": 16000,
-      "confirmed_price": 13000,
+      "confirmed_price": 10000,
       "min_subscription_qty": 10,
       "deposit_ratio": 0.5,
       "underwriters": [
@@ -254,13 +254,13 @@
       "listing_date": "2026-09-21",
       "price_band_low": 13800,
       "price_band_high": 15800,
-      "confirmed_price": 13800,
+      "confirmed_price": 10000,
       "min_subscription_qty": 10,
       "deposit_ratio": 0.5,
       "underwriters": [
         "대신증권"
       ],
-      "status": "waitingListing",
+      "status": "listed",
       "competition_rate": 219.56,
       "dart_corp_code": "01876251"
     },
@@ -277,7 +277,7 @@
       "listing_date": "2026-09-23",
       "price_band_low": 10000,
       "price_band_high": 12000,
-      "confirmed_price": 10000,
+      "confirmed_price": 12000,
       "min_subscription_qty": 10,
       "deposit_ratio": 0.5,
       "underwriters": [
@@ -300,7 +300,7 @@
       "listing_date": null,
       "price_band_low": 13000,
       "price_band_high": 15000,
-      "confirmed_price": 13000,
+      "confirmed_price": 10000,
       "min_subscription_qty": 10,
       "deposit_ratio": 0.5,
       "underwriters": [
@@ -323,7 +323,7 @@
       "listing_date": null,
       "price_band_low": 12400,
       "price_band_high": 14600,
-      "confirmed_price": 12400,
+      "confirmed_price": 14600,
       "min_subscription_qty": 10,
       "deposit_ratio": 0.5,
       "underwriters": [
@@ -346,7 +346,7 @@
       "listing_date": null,
       "price_band_low": 16500,
       "price_band_high": 19500,
-      "confirmed_price": 16500,
+      "confirmed_price": 19500,
       "min_subscription_qty": 10,
       "deposit_ratio": 0.5,
       "underwriters": [
@@ -369,7 +369,7 @@
       "listing_date": null,
       "price_band_low": 10700,
       "price_band_high": 12300,
-      "confirmed_price": 10700,
+      "confirmed_price": null,
       "min_subscription_qty": 10,
       "deposit_ratio": 0.5,
       "underwriters": [
@@ -392,7 +392,7 @@
       "listing_date": null,
       "price_band_low": 70400,
       "price_band_high": 90500,
-      "confirmed_price": 90500,
+      "confirmed_price": null,
       "min_subscription_qty": 10,
       "deposit_ratio": 0.5,
       "underwriters": [
@@ -416,7 +416,7 @@
       "listing_date": null,
       "price_band_low": 20000,
       "price_band_high": 23000,
-      "confirmed_price": 20000,
+      "confirmed_price": null,
       "min_subscription_qty": 10,
       "deposit_ratio": 0.5,
       "underwriters": [
@@ -439,7 +439,7 @@
       "listing_date": null,
       "price_band_low": 6800,
       "price_band_high": 7800,
-      "confirmed_price": 6800,
+      "confirmed_price": null,
       "min_subscription_qty": 10,
       "deposit_ratio": 0.5,
       "underwriters": [
@@ -462,7 +462,7 @@
       "listing_date": null,
       "price_band_low": 17000,
       "price_band_high": 18500,
-      "confirmed_price": 17000,
+      "confirmed_price": null,
       "min_subscription_qty": 10,
       "deposit_ratio": 0.5,
       "underwriters": [
@@ -486,7 +486,7 @@
       "listing_date": null,
       "price_band_low": 12300,
       "price_band_high": 16600,
-      "confirmed_price": 12300,
+      "confirmed_price": null,
       "min_subscription_qty": 10,
       "deposit_ratio": 0.5,
       "underwriters": [
@@ -509,7 +509,7 @@
       "listing_date": null,
       "price_band_low": 21000,
       "price_band_high": 26000,
-      "confirmed_price": 21000,
+      "confirmed_price": null,
       "min_subscription_qty": 10,
       "deposit_ratio": 0.5,
       "underwriters": [
@@ -533,7 +533,7 @@
       "listing_date": null,
       "price_band_low": 15000,
       "price_band_high": 18000,
-      "confirmed_price": 15000,
+      "confirmed_price": null,
       "min_subscription_qty": 10,
       "deposit_ratio": 0.5,
       "underwriters": [
@@ -556,7 +556,7 @@
       "listing_date": null,
       "price_band_low": 12600,
       "price_band_high": 15300,
-      "confirmed_price": 12600,
+      "confirmed_price": null,
       "min_subscription_qty": 10,
       "deposit_ratio": 0.5,
       "underwriters": [
@@ -579,7 +579,7 @@
       "listing_date": null,
       "price_band_low": 7600,
       "price_band_high": 9000,
-      "confirmed_price": 7600,
+      "confirmed_price": null,
       "min_subscription_qty": 10,
       "deposit_ratio": 0.5,
       "underwriters": [
@@ -625,7 +625,7 @@
       "listing_date": null,
       "price_band_low": 16400,
       "price_band_high": 20200,
-      "confirmed_price": 16400,
+      "confirmed_price": null,
       "min_subscription_qty": 10,
       "deposit_ratio": 0.5,
       "underwriters": [
