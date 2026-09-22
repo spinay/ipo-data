@@ -1,6 +1,6 @@
 {
-  "version": "2026-09-21T06:56:22.914Z",
-  "count": 29,
+  "version": "2026-09-22T03:41:24.552Z",
+  "count": 31,
   "ipos": [
     {
       "canonical_key": "2026-03-19_리센스메디컬",
@@ -297,7 +297,7 @@
       "subscription_start": "2026-09-16",
       "subscription_end": "2026-09-17",
       "refund_date": "2026-09-21",
-      "listing_date": null,
+      "listing_date": "2026-09-29",
       "price_band_low": 13000,
       "price_band_high": 15000,
       "confirmed_price": 10000,
@@ -306,7 +306,7 @@
       "underwriters": [
         "한국투자증권"
       ],
-      "status": "closed",
+      "status": "waitingListing",
       "competition_rate": 123.19,
       "dart_corp_code": "01564514"
     },
@@ -402,29 +402,6 @@
       "status": "upcoming",
       "competition_rate": null,
       "dart_corp_code": "01754737"
-    },
-    {
-      "canonical_key": "2026-10-12_래블업",
-      "company_name": "래블업",
-      "sector": "IPO",
-      "business_summary": "",
-      "demand_start": null,
-      "demand_end": null,
-      "subscription_start": "2026-10-12",
-      "subscription_end": "2026-10-13",
-      "refund_date": "2026-10-15",
-      "listing_date": null,
-      "price_band_low": 20000,
-      "price_band_high": 23000,
-      "confirmed_price": null,
-      "min_subscription_qty": 10,
-      "deposit_ratio": 0.5,
-      "underwriters": [
-        "NH투자증권"
-      ],
-      "status": "upcoming",
-      "competition_rate": null,
-      "dart_corp_code": "01956751"
     },
     {
       "canonical_key": "2026-10-12_엠에스바이오",
@@ -590,6 +567,52 @@
       "dart_corp_code": "01649408"
     },
     {
+      "canonical_key": "2026-10-22_래블업",
+      "company_name": "래블업",
+      "sector": "IPO",
+      "business_summary": "",
+      "demand_start": null,
+      "demand_end": null,
+      "subscription_start": "2026-10-22",
+      "subscription_end": "2026-10-23",
+      "refund_date": "2026-10-27",
+      "listing_date": null,
+      "price_band_low": 20000,
+      "price_band_high": 23000,
+      "confirmed_price": null,
+      "min_subscription_qty": 10,
+      "deposit_ratio": 0.5,
+      "underwriters": [
+        "NH투자증권"
+      ],
+      "status": "upcoming",
+      "competition_rate": null,
+      "dart_corp_code": "01956751"
+    },
+    {
+      "canonical_key": "2026-10-22_영광",
+      "company_name": "영광",
+      "sector": "IPO",
+      "business_summary": "",
+      "demand_start": null,
+      "demand_end": null,
+      "subscription_start": "2026-10-22",
+      "subscription_end": "2026-10-23",
+      "refund_date": "2026-10-27",
+      "listing_date": null,
+      "price_band_low": 14000,
+      "price_band_high": 17000,
+      "confirmed_price": null,
+      "min_subscription_qty": 10,
+      "deposit_ratio": 0.5,
+      "underwriters": [
+        "한국투자증권"
+      ],
+      "status": "upcoming",
+      "competition_rate": null,
+      "dart_corp_code": "00579342"
+    },
+    {
       "canonical_key": "2026-10-22_이에스티",
       "company_name": "이에스티",
       "sector": "IPO",
@@ -680,6 +703,29 @@
       "status": "upcoming",
       "competition_rate": null,
       "dart_corp_code": "01835829"
+    },
+    {
+      "canonical_key": "2026-11-10_하나에어로다이내믹스",
+      "company_name": "하나에어로다이내믹스",
+      "sector": "IPO",
+      "business_summary": "",
+      "demand_start": null,
+      "demand_end": null,
+      "subscription_start": "2026-11-10",
+      "subscription_end": "2026-11-11",
+      "refund_date": "2026-11-13",
+      "listing_date": null,
+      "price_band_low": 4700,
+      "price_band_high": 5700,
+      "confirmed_price": null,
+      "min_subscription_qty": 10,
+      "deposit_ratio": 0.5,
+      "underwriters": [
+        "IBK투자증권"
+      ],
+      "status": "upcoming",
+      "competition_rate": null,
+      "dart_corp_code": "01025617"
     }
   ]
 }
