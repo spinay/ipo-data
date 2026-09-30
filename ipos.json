@@ -1,6 +1,6 @@
 {
-  "version": "2026-09-29T04:46:09.569Z",
-  "count": 32,
+  "version": "2026-09-30T04:30:20.465Z",
+  "count": 33,
   "ipos": [
     {
       "canonical_key": "2026-03-19_리센스메디컬",
@@ -329,7 +329,7 @@
       "underwriters": [
         "대신증권"
       ],
-      "status": "waitingListing",
+      "status": "listed",
       "competition_rate": 868.64,
       "dart_corp_code": "00960623"
     },
@@ -726,6 +726,29 @@
       "status": "upcoming",
       "competition_rate": null,
       "dart_corp_code": "01863318"
+    },
+    {
+      "canonical_key": "2026-11-05_옵토닉스",
+      "company_name": "옵토닉스",
+      "sector": "IPO",
+      "business_summary": "",
+      "demand_start": null,
+      "demand_end": null,
+      "subscription_start": "2026-11-05",
+      "subscription_end": "2026-11-06",
+      "refund_date": "2026-11-10",
+      "listing_date": null,
+      "price_band_low": 10000,
+      "price_band_high": 12000,
+      "confirmed_price": null,
+      "min_subscription_qty": 10,
+      "deposit_ratio": 0.5,
+      "underwriters": [
+        "한국투자증권"
+      ],
+      "status": "upcoming",
+      "competition_rate": null,
+      "dart_corp_code": "01658035"
     },
     {
       "canonical_key": "2026-11-10_하나에어로다이내믹스",
