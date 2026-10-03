@@ -1,6 +1,6 @@
 {
-  "version": "2026-10-02T04:26:41.421Z",
-  "count": 34,
+  "version": "2026-10-03T04:09:00.003Z",
+  "count": 35,
   "ipos": [
     {
       "canonical_key": "2026-03-19_리센스메디컬",
@@ -375,7 +375,7 @@
       "underwriters": [
         "대신증권"
       ],
-      "status": "subscribing",
+      "status": "closed",
       "competition_rate": 1136.84,
       "dart_corp_code": "01028933"
     },
@@ -795,6 +795,29 @@
       "status": "upcoming",
       "competition_rate": null,
       "dart_corp_code": "01025617"
+    },
+    {
+      "canonical_key": "2026-11-24_케이엠에프",
+      "company_name": "케이엠에프",
+      "sector": "IPO",
+      "business_summary": "",
+      "demand_start": null,
+      "demand_end": null,
+      "subscription_start": "2026-11-24",
+      "subscription_end": "2026-11-25",
+      "refund_date": "2026-11-27",
+      "listing_date": null,
+      "price_band_low": 15000,
+      "price_band_high": 17800,
+      "confirmed_price": null,
+      "min_subscription_qty": 10,
+      "deposit_ratio": 0.5,
+      "underwriters": [
+        "IBK투자증권"
+      ],
+      "status": "upcoming",
+      "competition_rate": null,
+      "dart_corp_code": "01880139"
     }
   ]
 }
