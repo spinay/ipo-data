@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-06T05:25:19.177Z",
+  "version": "2026-10-07T04:50:16.741Z",
   "count": 35,
   "ipos": [
     {
@@ -392,15 +392,15 @@
       "listing_date": null,
       "price_band_low": 70400,
       "price_band_high": 90500,
-      "confirmed_price": null,
+      "confirmed_price": 90500,
       "min_subscription_qty": 10,
       "deposit_ratio": 0.5,
       "underwriters": [
         "미래에셋증권",
         "삼성증권"
       ],
-      "status": "upcoming",
-      "competition_rate": null,
+      "status": "subscribing",
+      "competition_rate": 388.84,
       "dart_corp_code": "01754737"
     },
     {
