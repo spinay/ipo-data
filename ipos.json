@@ -1,6 +1,6 @@
 {
-  "version": "2026-10-07T04:50:16.741Z",
-  "count": 35,
+  "version": "2026-10-08T04:53:44.813Z",
+  "count": 36,
   "ipos": [
     {
       "canonical_key": "2026-03-19_리센스메디컬",
@@ -366,7 +366,7 @@
       "subscription_start": "2026-10-01",
       "subscription_end": "2026-10-02",
       "refund_date": "2026-10-07",
-      "listing_date": null,
+      "listing_date": "2026-10-15",
       "price_band_low": 10700,
       "price_band_high": 12300,
       "confirmed_price": 12300,
@@ -375,7 +375,7 @@
       "underwriters": [
         "대신증권"
       ],
-      "status": "closed",
+      "status": "waitingListing",
       "competition_rate": 1136.84,
       "dart_corp_code": "01028933"
     },
@@ -416,14 +416,14 @@
       "listing_date": null,
       "price_band_low": 6800,
       "price_band_high": 7800,
-      "confirmed_price": null,
+      "confirmed_price": 7800,
       "min_subscription_qty": 10,
       "deposit_ratio": 0.5,
       "underwriters": [
         "KB증권"
       ],
       "status": "upcoming",
-      "competition_rate": null,
+      "competition_rate": 1096.56,
       "dart_corp_code": "01749559"
     },
     {
@@ -749,6 +749,29 @@
       "status": "upcoming",
       "competition_rate": null,
       "dart_corp_code": "01863318"
+    },
+    {
+      "canonical_key": "2026-11-04_제논",
+      "company_name": "제논",
+      "sector": "IPO",
+      "business_summary": "",
+      "demand_start": null,
+      "demand_end": null,
+      "subscription_start": "2026-11-04",
+      "subscription_end": "2026-11-05",
+      "refund_date": "2026-11-09",
+      "listing_date": null,
+      "price_band_low": 9700,
+      "price_band_high": 12200,
+      "confirmed_price": null,
+      "min_subscription_qty": 10,
+      "deposit_ratio": 0.5,
+      "underwriters": [
+        "삼성증권"
+      ],
+      "status": "upcoming",
+      "competition_rate": null,
+      "dart_corp_code": "01950720"
     },
     {
       "canonical_key": "2026-11-05_옵토닉스",
