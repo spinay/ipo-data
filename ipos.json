@@ -1,6 +1,6 @@
 {
-  "version": "2026-10-08T04:53:44.813Z",
-  "count": 36,
+  "version": "2026-10-09T04:56:00.471Z",
+  "count": 38,
   "ipos": [
     {
       "canonical_key": "2026-03-19_리센스메디컬",
@@ -399,7 +399,7 @@
         "미래에셋증권",
         "삼성증권"
       ],
-      "status": "subscribing",
+      "status": "closed",
       "competition_rate": 388.84,
       "dart_corp_code": "01754737"
     },
@@ -449,29 +449,6 @@
       "status": "upcoming",
       "competition_rate": null,
       "dart_corp_code": "00534729"
-    },
-    {
-      "canonical_key": "2026-10-19_다비오",
-      "company_name": "다비오",
-      "sector": "IPO",
-      "business_summary": "",
-      "demand_start": null,
-      "demand_end": null,
-      "subscription_start": "2026-10-19",
-      "subscription_end": "2026-10-20",
-      "refund_date": "2026-10-22",
-      "listing_date": null,
-      "price_band_low": 12300,
-      "price_band_high": 16600,
-      "confirmed_price": null,
-      "min_subscription_qty": 10,
-      "deposit_ratio": 0.5,
-      "underwriters": [
-        "대신증권"
-      ],
-      "status": "upcoming",
-      "competition_rate": null,
-      "dart_corp_code": "01706509"
     },
     {
       "canonical_key": "2026-10-19_유캐스트",
@@ -751,6 +728,29 @@
       "dart_corp_code": "01863318"
     },
     {
+      "canonical_key": "2026-11-04_영광와이케이엠씨",
+      "company_name": "영광와이케이엠씨",
+      "sector": "IPO",
+      "business_summary": "",
+      "demand_start": null,
+      "demand_end": null,
+      "subscription_start": "2026-11-04",
+      "subscription_end": "2026-11-05",
+      "refund_date": "2026-11-09",
+      "listing_date": null,
+      "price_band_low": null,
+      "price_band_high": null,
+      "confirmed_price": null,
+      "min_subscription_qty": 10,
+      "deposit_ratio": 0.5,
+      "underwriters": [
+        "대신증권"
+      ],
+      "status": "upcoming",
+      "competition_rate": null,
+      "dart_corp_code": "00960234"
+    },
+    {
       "canonical_key": "2026-11-04_제논",
       "company_name": "제논",
       "sector": "IPO",
@@ -797,6 +797,29 @@
       "dart_corp_code": "01658035"
     },
     {
+      "canonical_key": "2026-11-10_다비오",
+      "company_name": "다비오",
+      "sector": "IPO",
+      "business_summary": "",
+      "demand_start": null,
+      "demand_end": null,
+      "subscription_start": "2026-11-10",
+      "subscription_end": "2026-11-11",
+      "refund_date": "2026-11-13",
+      "listing_date": null,
+      "price_band_low": null,
+      "price_band_high": null,
+      "confirmed_price": null,
+      "min_subscription_qty": 10,
+      "deposit_ratio": 0.5,
+      "underwriters": [
+        "대신증권"
+      ],
+      "status": "upcoming",
+      "competition_rate": null,
+      "dart_corp_code": "01706509"
+    },
+    {
       "canonical_key": "2026-11-10_하나에어로다이내믹스",
       "company_name": "하나에어로다이내믹스",
       "sector": "IPO",
@@ -818,6 +841,29 @@
       "status": "upcoming",
       "competition_rate": null,
       "dart_corp_code": "01025617"
+    },
+    {
+      "canonical_key": "2026-11-12_엔키화이트햇",
+      "company_name": "엔키화이트햇",
+      "sector": "IPO",
+      "business_summary": "",
+      "demand_start": null,
+      "demand_end": null,
+      "subscription_start": "2026-11-12",
+      "subscription_end": "2026-11-13",
+      "refund_date": "2026-11-17",
+      "listing_date": null,
+      "price_band_low": null,
+      "price_band_high": null,
+      "confirmed_price": null,
+      "min_subscription_qty": 10,
+      "deposit_ratio": 0.5,
+      "underwriters": [
+        "신영증권"
+      ],
+      "status": "upcoming",
+      "competition_rate": null,
+      "dart_corp_code": "01795859"
     },
     {
       "canonical_key": "2026-11-24_케이엠에프",
