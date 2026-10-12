@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-11T04:27:41.105Z",
+  "version": "2026-10-12T04:43:19.803Z",
   "count": 38,
   "ipos": [
     {
@@ -422,7 +422,7 @@
       "underwriters": [
         "KB증권"
       ],
-      "status": "upcoming",
+      "status": "subscribing",
       "competition_rate": 1096.56,
       "dart_corp_code": "01749559"
     },
