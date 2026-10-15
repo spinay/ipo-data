@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-14T04:02:39.396Z",
+  "version": "2026-10-15T03:43:09.187Z",
   "count": 38,
   "ipos": [
     {
@@ -398,7 +398,7 @@
         "대신증권",
         "유진증권"
       ],
-      "status": "subscribing",
+      "status": "waitingListing",
       "competition_rate": 983.98,
       "dart_corp_code": "00534729"
     },
@@ -606,7 +606,7 @@
       "underwriters": [
         "하나증권"
       ],
-      "status": "upcoming",
+      "status": "forecasting",
       "competition_rate": null,
       "dart_corp_code": "01705740"
     },
