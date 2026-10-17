@@ -1,6 +1,6 @@
 {
-  "version": "2026-10-16T03:38:27.249Z",
-  "count": 38,
+  "version": "2026-10-17T03:29:15.307Z",
+  "count": 40,
   "ipos": [
     {
       "canonical_key": "2026-04-20_채비",
@@ -469,7 +469,7 @@
         "신한투자증권"
       ],
       "status": "forecasting",
-      "competition_rate": null,
+      "competition_rate": 1041.02,
       "dart_corp_code": "01543043"
     },
     {
@@ -818,6 +818,29 @@
       "dart_corp_code": "01025617"
     },
     {
+      "canonical_key": "2026-11-12_씨앤엠",
+      "company_name": "씨앤엠",
+      "sector": "IPO",
+      "business_summary": "",
+      "demand_start": null,
+      "demand_end": null,
+      "subscription_start": "2026-11-12",
+      "subscription_end": "2026-11-13",
+      "refund_date": "2026-11-17",
+      "listing_date": null,
+      "price_band_low": 10000,
+      "price_band_high": 13000,
+      "confirmed_price": null,
+      "min_subscription_qty": 10,
+      "deposit_ratio": 0.5,
+      "underwriters": [
+        "한국투자증권"
+      ],
+      "status": "upcoming",
+      "competition_rate": null,
+      "dart_corp_code": "00618173"
+    },
+    {
       "canonical_key": "2026-11-12_엔키화이트햇",
       "company_name": "엔키화이트햇",
       "sector": "IPO",
@@ -839,6 +862,30 @@
       "status": "upcoming",
       "competition_rate": null,
       "dart_corp_code": "01795859"
+    },
+    {
+      "canonical_key": "2026-11-12_제이앤티지",
+      "company_name": "제이앤티지",
+      "sector": "IPO",
+      "business_summary": "",
+      "demand_start": null,
+      "demand_end": null,
+      "subscription_start": "2026-11-12",
+      "subscription_end": "2026-11-13",
+      "refund_date": "2026-11-17",
+      "listing_date": null,
+      "price_band_low": 26400,
+      "price_band_high": 31900,
+      "confirmed_price": null,
+      "min_subscription_qty": 10,
+      "deposit_ratio": 0.5,
+      "underwriters": [
+        "대신증권",
+        "NH투자증권"
+      ],
+      "status": "upcoming",
+      "competition_rate": null,
+      "dart_corp_code": "01403198"
     },
     {
       "canonical_key": "2026-11-23_아델",
