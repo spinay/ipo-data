@@ -1,6 +1,6 @@
 {
-  "version": "2026-10-19T03:47:44.423Z",
-  "count": 40,
+  "version": "2026-10-19T04:39:46.335Z",
+  "count": 39,
   "ipos": [
     {
       "canonical_key": "2026-04-20_채비",
@@ -401,30 +401,6 @@
       "status": "waitingListing",
       "competition_rate": 983.98,
       "dart_corp_code": "00534729"
-    },
-    {
-      "canonical_key": "2026-10-19_유캐스트",
-      "company_name": "유캐스트",
-      "sector": "IPO",
-      "business_summary": "",
-      "demand_start": null,
-      "demand_end": null,
-      "subscription_start": "2026-10-19",
-      "subscription_end": "2026-10-20",
-      "refund_date": "2026-10-22",
-      "listing_date": null,
-      "price_band_low": 21000,
-      "price_band_high": 26000,
-      "confirmed_price": null,
-      "min_subscription_qty": 10,
-      "deposit_ratio": 0.5,
-      "underwriters": [
-        "유진증권",
-        "신영증권"
-      ],
-      "status": "subscribing",
-      "competition_rate": null,
-      "dart_corp_code": "01705573"
     },
     {
       "canonical_key": "2026-10-20_크리에이츠",
