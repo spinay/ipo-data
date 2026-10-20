@@ -1,6 +1,6 @@
 {
-  "version": "2026-10-19T04:39:46.335Z",
-  "count": 39,
+  "version": "2026-10-20T03:57:56.809Z",
+  "count": 41,
   "ipos": [
     {
       "canonical_key": "2026-04-20_채비",
@@ -351,7 +351,7 @@
         "미래에셋증권",
         "삼성증권"
       ],
-      "status": "waitingListing",
+      "status": "listed",
       "competition_rate": 388.84,
       "dart_corp_code": "01754737"
     },
@@ -421,8 +421,8 @@
       "underwriters": [
         "삼성증권"
       ],
-      "status": "forecasting",
-      "competition_rate": null,
+      "status": "subscribing",
+      "competition_rate": 240.46,
       "dart_corp_code": "01540903"
     },
     {
@@ -444,7 +444,7 @@
       "underwriters": [
         "신한투자증권"
       ],
-      "status": "forecasting",
+      "status": "subscribing",
       "competition_rate": 1041.02,
       "dart_corp_code": "01543043"
     },
@@ -720,7 +720,7 @@
       "underwriters": [
         "한국투자증권"
       ],
-      "status": "upcoming",
+      "status": "forecasting",
       "competition_rate": null,
       "dart_corp_code": "01658035"
     },
@@ -864,6 +864,31 @@
       "dart_corp_code": "01403198"
     },
     {
+      "canonical_key": "2026-11-18_에스에프씨",
+      "company_name": "에스에프씨",
+      "sector": "IPO",
+      "business_summary": "",
+      "demand_start": null,
+      "demand_end": null,
+      "subscription_start": "2026-11-18",
+      "subscription_end": "2026-11-19",
+      "refund_date": "2026-11-23",
+      "listing_date": null,
+      "price_band_low": 31600,
+      "price_band_high": 36100,
+      "confirmed_price": null,
+      "min_subscription_qty": 10,
+      "deposit_ratio": 0.5,
+      "underwriters": [
+        "미래에셋증권",
+        "한국투자증권",
+        "삼성증권"
+      ],
+      "status": "upcoming",
+      "competition_rate": null,
+      "dart_corp_code": "00299109"
+    },
+    {
       "canonical_key": "2026-11-23_아델",
       "company_name": "아델",
       "sector": "IPO",
@@ -909,6 +934,29 @@
       "status": "upcoming",
       "competition_rate": null,
       "dart_corp_code": "01880139"
+    },
+    {
+      "canonical_key": "2026-12-10_씨아이에스케미칼",
+      "company_name": "씨아이에스케미칼",
+      "sector": "IPO",
+      "business_summary": "",
+      "demand_start": null,
+      "demand_end": null,
+      "subscription_start": "2026-12-10",
+      "subscription_end": "2026-12-11",
+      "refund_date": "2026-12-15",
+      "listing_date": null,
+      "price_band_low": 5400,
+      "price_band_high": 6800,
+      "confirmed_price": null,
+      "min_subscription_qty": 10,
+      "deposit_ratio": 0.5,
+      "underwriters": [
+        "KB증권"
+      ],
+      "status": "upcoming",
+      "competition_rate": null,
+      "dart_corp_code": "01077540"
     }
   ]
 }
