@@ -1,6 +1,6 @@
 {
-  "version": "2026-10-21T03:37:23.899Z",
-  "count": 43,
+  "version": "2026-10-21T23:34:40.599Z",
+  "count": 44,
   "ipos": [
     {
       "canonical_key": "2026-04-20_채비",
@@ -226,7 +226,7 @@
       "subscription_start": "2026-09-14",
       "subscription_end": "2026-09-15",
       "refund_date": "2026-09-16",
-      "listing_date": "2026-09-22",
+      "listing_date": "2026-09-23",
       "price_band_low": 10000,
       "price_band_high": 12000,
       "confirmed_price": 12000,
@@ -295,7 +295,7 @@
       "subscription_start": "2026-09-17",
       "subscription_end": "2026-09-18",
       "refund_date": "2026-09-21",
-      "listing_date": "2026-09-30",
+      "listing_date": "2026-10-01",
       "price_band_low": 16500,
       "price_band_high": 19500,
       "confirmed_price": 19500,
@@ -318,7 +318,7 @@
       "subscription_start": "2026-10-01",
       "subscription_end": "2026-10-02",
       "refund_date": "2026-10-05",
-      "listing_date": "2026-10-14",
+      "listing_date": "2026-10-15",
       "price_band_low": 10700,
       "price_band_high": 12300,
       "confirmed_price": 12300,
@@ -365,7 +365,7 @@
       "subscription_start": "2026-10-12",
       "subscription_end": "2026-10-13",
       "refund_date": "2026-10-14",
-      "listing_date": "2026-10-21",
+      "listing_date": "2026-10-22",
       "price_band_low": 6800,
       "price_band_high": 7800,
       "confirmed_price": 7800,
@@ -387,8 +387,8 @@
       "demand_end": null,
       "subscription_start": "2026-10-13",
       "subscription_end": "2026-10-14",
-      "refund_date": "2026-10-15",
-      "listing_date": "2026-10-22",
+      "refund_date": "2026-10-16",
+      "listing_date": "2026-10-23",
       "price_band_low": 17000,
       "price_band_high": 18500,
       "confirmed_price": 18500,
@@ -403,30 +403,6 @@
       "dart_corp_code": "00534729"
     },
     {
-      "canonical_key": "2026-10-19_유캐스트",
-      "company_name": "유캐스트",
-      "sector": "IPO",
-      "business_summary": "",
-      "demand_start": null,
-      "demand_end": null,
-      "subscription_start": "2026-10-19",
-      "subscription_end": "2026-10-20",
-      "refund_date": "2026-10-22",
-      "listing_date": null,
-      "price_band_low": 21000,
-      "price_band_high": 26000,
-      "confirmed_price": null,
-      "min_subscription_qty": 10,
-      "deposit_ratio": 0.5,
-      "underwriters": [
-        "유진증권",
-        "신영증권"
-      ],
-      "status": "closed",
-      "competition_rate": null,
-      "dart_corp_code": "01705573"
-    },
-    {
       "canonical_key": "2026-10-20_크리에이츠",
       "company_name": "크리에이츠",
       "sector": "IPO",
@@ -435,7 +411,7 @@
       "demand_end": null,
       "subscription_start": "2026-10-20",
       "subscription_end": "2026-10-21",
-      "refund_date": "2026-10-22",
+      "refund_date": "2026-10-23",
       "listing_date": null,
       "price_band_low": 15000,
       "price_band_high": 18000,
@@ -445,7 +421,7 @@
       "underwriters": [
         "삼성증권"
       ],
-      "status": "subscribing",
+      "status": "closed",
       "competition_rate": 240.46,
       "dart_corp_code": "01540903"
     },
@@ -458,7 +434,7 @@
       "demand_end": null,
       "subscription_start": "2026-10-20",
       "subscription_end": "2026-10-21",
-      "refund_date": "2026-10-22",
+      "refund_date": "2026-10-23",
       "listing_date": null,
       "price_band_low": 12600,
       "price_band_high": 15300,
@@ -468,7 +444,7 @@
       "underwriters": [
         "신한투자증권"
       ],
-      "status": "subscribing",
+      "status": "closed",
       "competition_rate": 1041.02,
       "dart_corp_code": "01543043"
     },
@@ -481,7 +457,7 @@
       "demand_end": null,
       "subscription_start": "2026-10-21",
       "subscription_end": "2026-10-22",
-      "refund_date": "2026-10-25",
+      "refund_date": "2026-10-26",
       "listing_date": null,
       "price_band_low": 7600,
       "price_band_high": 9000,
@@ -504,7 +480,7 @@
       "demand_end": null,
       "subscription_start": "2026-10-22",
       "subscription_end": "2026-10-23",
-      "refund_date": "2026-10-26",
+      "refund_date": "2026-10-27",
       "listing_date": null,
       "price_band_low": 20000,
       "price_band_high": 23000,
@@ -514,8 +490,8 @@
       "underwriters": [
         "NH투자증권"
       ],
-      "status": "forecasting",
-      "competition_rate": null,
+      "status": "subscribing",
+      "competition_rate": 284.53,
       "dart_corp_code": "01956751"
     },
     {
@@ -527,7 +503,7 @@
       "demand_end": null,
       "subscription_start": "2026-10-22",
       "subscription_end": "2026-10-23",
-      "refund_date": "2026-10-26",
+      "refund_date": "2026-10-27",
       "listing_date": null,
       "price_band_low": 14000,
       "price_band_high": 17000,
@@ -537,8 +513,8 @@
       "underwriters": [
         "한국투자증권"
       ],
-      "status": "forecasting",
-      "competition_rate": null,
+      "status": "subscribing",
+      "competition_rate": 1000.07,
       "dart_corp_code": "00579342"
     },
     {
@@ -550,7 +526,7 @@
       "demand_end": null,
       "subscription_start": "2026-10-22",
       "subscription_end": "2026-10-23",
-      "refund_date": "2026-10-26",
+      "refund_date": "2026-10-27",
       "listing_date": null,
       "price_band_low": 10600,
       "price_band_high": 12400,
@@ -560,55 +536,9 @@
       "underwriters": [
         "대신증권"
       ],
-      "status": "forecasting",
-      "competition_rate": null,
+      "status": "subscribing",
+      "competition_rate": 630.1,
       "dart_corp_code": "01378005"
-    },
-    {
-      "canonical_key": "2026-10-26_에이엘로봇",
-      "company_name": "에이엘로봇",
-      "sector": "IPO",
-      "business_summary": "",
-      "demand_start": "2026-10-14",
-      "demand_end": null,
-      "subscription_start": "2026-10-26",
-      "subscription_end": "2026-10-27",
-      "refund_date": "2026-10-28",
-      "listing_date": null,
-      "price_band_low": 15700,
-      "price_band_high": 17600,
-      "confirmed_price": 17600,
-      "min_subscription_qty": 10,
-      "deposit_ratio": 0.5,
-      "underwriters": [
-        "대신증권"
-      ],
-      "status": "forecasting",
-      "competition_rate": null,
-      "dart_corp_code": "01797635"
-    },
-    {
-      "canonical_key": "2026-10-28_엠비디",
-      "company_name": "엠비디",
-      "sector": "IPO",
-      "business_summary": "",
-      "demand_start": "2026-10-15",
-      "demand_end": null,
-      "subscription_start": "2026-10-28",
-      "subscription_end": "2026-10-29",
-      "refund_date": "2026-11-01",
-      "listing_date": null,
-      "price_band_low": 9600,
-      "price_band_high": 11700,
-      "confirmed_price": 11700,
-      "min_subscription_qty": 10,
-      "deposit_ratio": 0.5,
-      "underwriters": [
-        "하나증권"
-      ],
-      "status": "forecasting",
-      "competition_rate": null,
-      "dart_corp_code": "01705740"
     },
     {
       "canonical_key": "2026-11-02_동원파츠",
@@ -619,7 +549,7 @@
       "demand_end": null,
       "subscription_start": "2026-11-02",
       "subscription_end": "2026-11-03",
-      "refund_date": "2026-11-04",
+      "refund_date": "2026-11-05",
       "listing_date": null,
       "price_band_low": 23000,
       "price_band_high": 26500,
@@ -642,7 +572,7 @@
       "demand_end": null,
       "subscription_start": "2026-11-02",
       "subscription_end": "2026-11-03",
-      "refund_date": "2026-11-04",
+      "refund_date": "2026-11-05",
       "listing_date": null,
       "price_band_low": 16400,
       "price_band_high": 20200,
@@ -665,7 +595,7 @@
       "demand_end": null,
       "subscription_start": "2026-11-03",
       "subscription_end": "2026-11-04",
-      "refund_date": "2026-11-05",
+      "refund_date": "2026-11-06",
       "listing_date": null,
       "price_band_low": 10500,
       "price_band_high": 13000,
@@ -688,7 +618,7 @@
       "demand_end": null,
       "subscription_start": "2026-11-04",
       "subscription_end": "2026-11-05",
-      "refund_date": "2026-11-08",
+      "refund_date": "2026-11-09",
       "listing_date": null,
       "price_band_low": 9400,
       "price_band_high": 11000,
@@ -711,7 +641,7 @@
       "demand_end": null,
       "subscription_start": "2026-11-04",
       "subscription_end": "2026-11-05",
-      "refund_date": "2026-11-08",
+      "refund_date": "2026-11-09",
       "listing_date": null,
       "price_band_low": 9700,
       "price_band_high": 12200,
@@ -734,7 +664,7 @@
       "demand_end": null,
       "subscription_start": "2026-11-05",
       "subscription_end": "2026-11-06",
-      "refund_date": "2026-11-09",
+      "refund_date": "2026-11-10",
       "listing_date": null,
       "price_band_low": 10000,
       "price_band_high": 12000,
@@ -772,6 +702,29 @@
       "dart_corp_code": "02038432"
     },
     {
+      "canonical_key": "2026-11-06_에이엘로봇",
+      "company_name": "에이엘로봇",
+      "sector": "IPO",
+      "business_summary": "",
+      "demand_start": "2026-10-14",
+      "demand_end": null,
+      "subscription_start": "2026-11-06",
+      "subscription_end": "2026-11-09",
+      "refund_date": "2026-11-11",
+      "listing_date": null,
+      "price_band_low": 15700,
+      "price_band_high": 17600,
+      "confirmed_price": 17600,
+      "min_subscription_qty": 10,
+      "deposit_ratio": 0.5,
+      "underwriters": [
+        "대신증권"
+      ],
+      "status": "forecasting",
+      "competition_rate": null,
+      "dart_corp_code": "01797635"
+    },
+    {
       "canonical_key": "2026-11-10_다비오",
       "company_name": "다비오",
       "sector": "IPO",
@@ -780,7 +733,7 @@
       "demand_end": null,
       "subscription_start": "2026-11-10",
       "subscription_end": "2026-11-11",
-      "refund_date": "2026-11-12",
+      "refund_date": "2026-11-13",
       "listing_date": null,
       "price_band_low": 12300,
       "price_band_high": 16600,
@@ -803,7 +756,7 @@
       "demand_end": null,
       "subscription_start": "2026-11-10",
       "subscription_end": "2026-11-11",
-      "refund_date": "2026-11-12",
+      "refund_date": "2026-11-13",
       "listing_date": null,
       "price_band_low": 4700,
       "price_band_high": 5700,
@@ -849,7 +802,7 @@
       "demand_end": null,
       "subscription_start": "2026-11-12",
       "subscription_end": "2026-11-13",
-      "refund_date": "2026-11-16",
+      "refund_date": "2026-11-17",
       "listing_date": null,
       "price_band_low": 13000,
       "price_band_high": 16500,
@@ -862,6 +815,29 @@
       "status": "upcoming",
       "competition_rate": null,
       "dart_corp_code": "01795859"
+    },
+    {
+      "canonical_key": "2026-11-12_엠비디",
+      "company_name": "엠비디",
+      "sector": "IPO",
+      "business_summary": "",
+      "demand_start": "2026-10-15",
+      "demand_end": null,
+      "subscription_start": "2026-11-12",
+      "subscription_end": "2026-11-13",
+      "refund_date": "2026-11-17",
+      "listing_date": null,
+      "price_band_low": 9600,
+      "price_band_high": 11700,
+      "confirmed_price": 11700,
+      "min_subscription_qty": 10,
+      "deposit_ratio": 0.5,
+      "underwriters": [
+        "하나증권"
+      ],
+      "status": "forecasting",
+      "competition_rate": null,
+      "dart_corp_code": "01705740"
     },
     {
       "canonical_key": "2026-11-12_제이앤티지",
@@ -913,6 +889,30 @@
       "dart_corp_code": "00299109"
     },
     {
+      "canonical_key": "2026-11-18_유캐스트",
+      "company_name": "유캐스트",
+      "sector": "IPO",
+      "business_summary": "",
+      "demand_start": null,
+      "demand_end": null,
+      "subscription_start": "2026-11-18",
+      "subscription_end": "2026-11-19",
+      "refund_date": "2026-11-23",
+      "listing_date": null,
+      "price_band_low": 21000,
+      "price_band_high": 26000,
+      "confirmed_price": null,
+      "min_subscription_qty": 10,
+      "deposit_ratio": 0.5,
+      "underwriters": [
+        "유진증권",
+        "신영증권"
+      ],
+      "status": "upcoming",
+      "competition_rate": null,
+      "dart_corp_code": "01705573"
+    },
+    {
       "canonical_key": "2026-11-23_아델",
       "company_name": "아델",
       "sector": "IPO",
@@ -945,7 +945,7 @@
       "demand_end": null,
       "subscription_start": "2026-11-24",
       "subscription_end": "2026-11-25",
-      "refund_date": "2026-11-26",
+      "refund_date": "2026-11-27",
       "listing_date": null,
       "price_band_low": 15000,
       "price_band_high": 17800,
@@ -981,6 +981,29 @@
       "status": "upcoming",
       "competition_rate": null,
       "dart_corp_code": "01366675"
+    },
+    {
+      "canonical_key": "2026-12-07_이노보테라퓨틱스",
+      "company_name": "이노보테라퓨틱스",
+      "sector": "IPO",
+      "business_summary": "",
+      "demand_start": null,
+      "demand_end": null,
+      "subscription_start": "2026-12-07",
+      "subscription_end": "2026-12-08",
+      "refund_date": "2026-12-10",
+      "listing_date": null,
+      "price_band_low": 20000,
+      "price_band_high": 24000,
+      "confirmed_price": null,
+      "min_subscription_qty": 10,
+      "deposit_ratio": 0.5,
+      "underwriters": [
+        "한국투자증권"
+      ],
+      "status": "upcoming",
+      "competition_rate": null,
+      "dart_corp_code": "01783687"
     },
     {
       "canonical_key": "2026-12-10_씨아이에스케미칼",
