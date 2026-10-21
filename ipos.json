@@ -1,6 +1,6 @@
 {
-  "version": "2026-10-20T03:57:56.809Z",
-  "count": 41,
+  "version": "2026-10-21T03:37:23.899Z",
+  "count": 43,
   "ipos": [
     {
       "canonical_key": "2026-04-20_채비",
@@ -374,7 +374,7 @@
       "underwriters": [
         "KB증권"
       ],
-      "status": "waitingListing",
+      "status": "listed",
       "competition_rate": 1096.56,
       "dart_corp_code": "01749559"
     },
@@ -401,6 +401,30 @@
       "status": "waitingListing",
       "competition_rate": 983.98,
       "dart_corp_code": "00534729"
+    },
+    {
+      "canonical_key": "2026-10-19_유캐스트",
+      "company_name": "유캐스트",
+      "sector": "IPO",
+      "business_summary": "",
+      "demand_start": null,
+      "demand_end": null,
+      "subscription_start": "2026-10-19",
+      "subscription_end": "2026-10-20",
+      "refund_date": "2026-10-22",
+      "listing_date": null,
+      "price_band_low": 21000,
+      "price_band_high": 26000,
+      "confirmed_price": null,
+      "min_subscription_qty": 10,
+      "deposit_ratio": 0.5,
+      "underwriters": [
+        "유진증권",
+        "신영증권"
+      ],
+      "status": "closed",
+      "competition_rate": null,
+      "dart_corp_code": "01705573"
     },
     {
       "canonical_key": "2026-10-20_크리에이츠",
@@ -467,8 +491,8 @@
       "underwriters": [
         "미래에셋증권"
       ],
-      "status": "forecasting",
-      "competition_rate": null,
+      "status": "subscribing",
+      "competition_rate": 1234.3,
       "dart_corp_code": "01649408"
     },
     {
@@ -605,7 +629,7 @@
       "underwriters": [
         "삼성증권"
       ],
-      "status": "upcoming",
+      "status": "forecasting",
       "competition_rate": null,
       "dart_corp_code": "00784184"
     },
@@ -628,7 +652,7 @@
       "underwriters": [
         "미래에셋증권"
       ],
-      "status": "upcoming",
+      "status": "forecasting",
       "competition_rate": null,
       "dart_corp_code": "01835829"
     },
@@ -651,7 +675,7 @@
       "underwriters": [
         "한국투자증권"
       ],
-      "status": "upcoming",
+      "status": "forecasting",
       "competition_rate": null,
       "dart_corp_code": "01863318"
     },
@@ -934,6 +958,29 @@
       "status": "upcoming",
       "competition_rate": null,
       "dart_corp_code": "01880139"
+    },
+    {
+      "canonical_key": "2026-11-27_에이엔에이치스트럭쳐",
+      "company_name": "에이엔에이치스트럭쳐",
+      "sector": "IPO",
+      "business_summary": "",
+      "demand_start": null,
+      "demand_end": null,
+      "subscription_start": "2026-11-27",
+      "subscription_end": "2026-11-30",
+      "refund_date": "2026-12-02",
+      "listing_date": null,
+      "price_band_low": 11200,
+      "price_band_high": 13600,
+      "confirmed_price": null,
+      "min_subscription_qty": 10,
+      "deposit_ratio": 0.5,
+      "underwriters": [
+        "NH투자증권"
+      ],
+      "status": "upcoming",
+      "competition_rate": null,
+      "dart_corp_code": "01366675"
     },
     {
       "canonical_key": "2026-12-10_씨아이에스케미칼",
