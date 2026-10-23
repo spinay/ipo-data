@@ -1,6 +1,6 @@
 {
-  "version": "2026-10-22T03:37:21.388Z",
-  "count": 44,
+  "version": "2026-10-23T03:42:40.201Z",
+  "count": 45,
   "ipos": [
     {
       "canonical_key": "2026-04-20_채비",
@@ -398,7 +398,7 @@
         "대신증권",
         "유진증권"
       ],
-      "status": "waitingListing",
+      "status": "listed",
       "competition_rate": 983.98,
       "dart_corp_code": "00534729"
     },
@@ -412,7 +412,7 @@
       "subscription_start": "2026-10-20",
       "subscription_end": "2026-10-21",
       "refund_date": "2026-10-23",
-      "listing_date": null,
+      "listing_date": "2026-10-30",
       "price_band_low": 15000,
       "price_band_high": 18000,
       "confirmed_price": 18000,
@@ -421,7 +421,7 @@
       "underwriters": [
         "삼성증권"
       ],
-      "status": "closed",
+      "status": "waitingListing",
       "competition_rate": 240.46,
       "dart_corp_code": "01540903"
     },
@@ -435,7 +435,7 @@
       "subscription_start": "2026-10-20",
       "subscription_end": "2026-10-21",
       "refund_date": "2026-10-23",
-      "listing_date": null,
+      "listing_date": "2026-10-29",
       "price_band_low": 12600,
       "price_band_high": 15300,
       "confirmed_price": 15300,
@@ -444,7 +444,7 @@
       "underwriters": [
         "신한투자증권"
       ],
-      "status": "closed",
+      "status": "waitingListing",
       "competition_rate": 1041.02,
       "dart_corp_code": "01543043"
     },
@@ -467,7 +467,7 @@
       "underwriters": [
         "미래에셋증권"
       ],
-      "status": "subscribing",
+      "status": "closed",
       "competition_rate": 1234.3,
       "dart_corp_code": "01649408"
     },
@@ -1004,6 +1004,30 @@
       "status": "upcoming",
       "competition_rate": null,
       "dart_corp_code": "01783687"
+    },
+    {
+      "canonical_key": "2026-12-09_인터엑스",
+      "company_name": "인터엑스",
+      "sector": "IPO",
+      "business_summary": "",
+      "demand_start": null,
+      "demand_end": null,
+      "subscription_start": "2026-12-09",
+      "subscription_end": "2026-12-10",
+      "refund_date": "2026-12-14",
+      "listing_date": null,
+      "price_band_low": 10000,
+      "price_band_high": 13000,
+      "confirmed_price": null,
+      "min_subscription_qty": 10,
+      "deposit_ratio": 0.5,
+      "underwriters": [
+        "한국투자증권",
+        "BNK투자증권"
+      ],
+      "status": "upcoming",
+      "competition_rate": null,
+      "dart_corp_code": "01860700"
     },
     {
       "canonical_key": "2026-12-10_씨아이에스케미칼",
