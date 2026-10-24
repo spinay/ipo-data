@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-23T03:42:40.201Z",
+  "version": "2026-10-24T03:36:43.372Z",
   "count": 45,
   "ipos": [
     {
@@ -490,7 +490,7 @@
       "underwriters": [
         "NH투자증권"
       ],
-      "status": "subscribing",
+      "status": "closed",
       "competition_rate": 284.53,
       "dart_corp_code": "01956751"
     },
@@ -513,7 +513,7 @@
       "underwriters": [
         "한국투자증권"
       ],
-      "status": "subscribing",
+      "status": "closed",
       "competition_rate": 1000.07,
       "dart_corp_code": "00579342"
     },
@@ -536,7 +536,7 @@
       "underwriters": [
         "대신증권"
       ],
-      "status": "subscribing",
+      "status": "closed",
       "competition_rate": 630.1,
       "dart_corp_code": "01378005"
     },
