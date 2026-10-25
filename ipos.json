@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-24T03:36:43.372Z",
+  "version": "2026-10-25T03:33:36.619Z",
   "count": 45,
   "ipos": [
     {
@@ -651,7 +651,7 @@
       "underwriters": [
         "삼성증권"
       ],
-      "status": "upcoming",
+      "status": "forecasting",
       "competition_rate": null,
       "dart_corp_code": "01950720"
     },
