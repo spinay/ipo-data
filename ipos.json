@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-26T03:35:53.031Z",
+  "version": "2026-10-27T04:01:22.801Z",
   "count": 45,
   "ipos": [
     {
@@ -527,7 +527,7 @@
       "subscription_start": "2026-10-22",
       "subscription_end": "2026-10-23",
       "refund_date": "2026-10-27",
-      "listing_date": null,
+      "listing_date": "2026-11-04",
       "price_band_low": 10600,
       "price_band_high": 12400,
       "confirmed_price": 12400,
@@ -536,7 +536,7 @@
       "underwriters": [
         "대신증권"
       ],
-      "status": "closed",
+      "status": "waitingListing",
       "competition_rate": 630.1,
       "dart_corp_code": "01378005"
     },
