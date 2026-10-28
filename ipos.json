@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-27T04:01:22.801Z",
+  "version": "2026-10-28T04:35:00.217Z",
   "count": 45,
   "ipos": [
     {
@@ -481,7 +481,7 @@
       "subscription_start": "2026-10-22",
       "subscription_end": "2026-10-23",
       "refund_date": "2026-10-27",
-      "listing_date": null,
+      "listing_date": "2026-11-03",
       "price_band_low": 20000,
       "price_band_high": 23000,
       "confirmed_price": 22000,
@@ -490,7 +490,7 @@
       "underwriters": [
         "NH투자증권"
       ],
-      "status": "closed",
+      "status": "waitingListing",
       "competition_rate": 284.53,
       "dart_corp_code": "01956751"
     },
@@ -504,7 +504,7 @@
       "subscription_start": "2026-10-22",
       "subscription_end": "2026-10-23",
       "refund_date": "2026-10-27",
-      "listing_date": null,
+      "listing_date": "2026-11-02",
       "price_band_low": 14000,
       "price_band_high": 17000,
       "confirmed_price": 17000,
@@ -513,7 +513,7 @@
       "underwriters": [
         "한국투자증권"
       ],
-      "status": "closed",
+      "status": "waitingListing",
       "competition_rate": 1000.07,
       "dart_corp_code": "00579342"
     },
@@ -771,29 +771,6 @@
       "dart_corp_code": "00618173"
     },
     {
-      "canonical_key": "2026-11-12_엔키화이트햇",
-      "company_name": "엔키화이트햇",
-      "sector": "IPO",
-      "business_summary": "",
-      "demand_start": "2026-11-02",
-      "demand_end": null,
-      "subscription_start": "2026-11-12",
-      "subscription_end": "2026-11-13",
-      "refund_date": "2026-11-17",
-      "listing_date": null,
-      "price_band_low": 13000,
-      "price_band_high": 16500,
-      "confirmed_price": 16500,
-      "min_subscription_qty": 10,
-      "deposit_ratio": 0.5,
-      "underwriters": [
-        "신영증권"
-      ],
-      "status": "upcoming",
-      "competition_rate": null,
-      "dart_corp_code": "01795859"
-    },
-    {
       "canonical_key": "2026-11-12_엠비디",
       "company_name": "엠비디",
       "sector": "IPO",
@@ -981,6 +958,29 @@
       "status": "upcoming",
       "competition_rate": null,
       "dart_corp_code": "01366675"
+    },
+    {
+      "canonical_key": "2026-12-01_엔키화이트햇",
+      "company_name": "엔키화이트햇",
+      "sector": "IPO",
+      "business_summary": "",
+      "demand_start": "2026-11-02",
+      "demand_end": null,
+      "subscription_start": "2026-12-01",
+      "subscription_end": "2026-12-02",
+      "refund_date": "2026-12-04",
+      "listing_date": null,
+      "price_band_low": 13000,
+      "price_band_high": 16500,
+      "confirmed_price": 16500,
+      "min_subscription_qty": 10,
+      "deposit_ratio": 0.5,
+      "underwriters": [
+        "신영증권"
+      ],
+      "status": "upcoming",
+      "competition_rate": null,
+      "dart_corp_code": "01795859"
     },
     {
       "canonical_key": "2026-12-07_이노보테라퓨틱스",
