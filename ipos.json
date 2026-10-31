@@ -1,6 +1,6 @@
 {
-  "version": "2026-10-30T04:54:54.786Z",
-  "count": 47,
+  "version": "2026-10-31T04:35:54.941Z",
+  "count": 46,
   "ipos": [
     {
       "canonical_key": "2026-04-20_채비",
@@ -583,7 +583,7 @@
         "미래에셋증권"
       ],
       "status": "forecasting",
-      "competition_rate": null,
+      "competition_rate": 152.36,
       "dart_corp_code": "01835829"
     },
     {
@@ -606,7 +606,7 @@
         "한국투자증권"
       ],
       "status": "forecasting",
-      "competition_rate": null,
+      "competition_rate": 66.58,
       "dart_corp_code": "01863318"
     },
     {
@@ -656,29 +656,6 @@
       "dart_corp_code": "01658035"
     },
     {
-      "canonical_key": "2026-11-05_SimwonAmericaCorp.",
-      "company_name": "SimwonAmericaCorp.",
-      "sector": "IPO",
-      "business_summary": "",
-      "demand_start": null,
-      "demand_end": null,
-      "subscription_start": "2026-11-05",
-      "subscription_end": "2026-11-05",
-      "refund_date": "2026-11-09",
-      "listing_date": null,
-      "price_band_low": null,
-      "price_band_high": null,
-      "confirmed_price": null,
-      "min_subscription_qty": 10,
-      "deposit_ratio": 0.5,
-      "underwriters": [
-        "-"
-      ],
-      "status": "upcoming",
-      "competition_rate": null,
-      "dart_corp_code": "02038432"
-    },
-    {
       "canonical_key": "2026-11-06_에이엘로봇",
       "company_name": "에이엘로봇",
       "sector": "IPO",
@@ -700,29 +677,6 @@
       "status": "forecasting",
       "competition_rate": null,
       "dart_corp_code": "01797635"
-    },
-    {
-      "canonical_key": "2026-11-10_다비오",
-      "company_name": "다비오",
-      "sector": "IPO",
-      "business_summary": "",
-      "demand_start": "2026-11-01",
-      "demand_end": null,
-      "subscription_start": "2026-11-10",
-      "subscription_end": "2026-11-11",
-      "refund_date": "2026-11-13",
-      "listing_date": null,
-      "price_band_low": 12300,
-      "price_band_high": 16600,
-      "confirmed_price": 16600,
-      "min_subscription_qty": 10,
-      "deposit_ratio": 0.5,
-      "underwriters": [
-        "대신증권"
-      ],
-      "status": "upcoming",
-      "competition_rate": null,
-      "dart_corp_code": "01706509"
     },
     {
       "canonical_key": "2026-11-10_하나에어로다이내믹스",
@@ -958,6 +912,29 @@
       "status": "upcoming",
       "competition_rate": null,
       "dart_corp_code": "01366675"
+    },
+    {
+      "canonical_key": "2026-12-01_다비오",
+      "company_name": "다비오",
+      "sector": "IPO",
+      "business_summary": "",
+      "demand_start": "2026-11-01",
+      "demand_end": null,
+      "subscription_start": "2026-12-01",
+      "subscription_end": "2026-12-02",
+      "refund_date": "2026-12-04",
+      "listing_date": null,
+      "price_band_low": 12300,
+      "price_band_high": 16600,
+      "confirmed_price": 16600,
+      "min_subscription_qty": 10,
+      "deposit_ratio": 0.5,
+      "underwriters": [
+        "대신증권"
+      ],
+      "status": "upcoming",
+      "competition_rate": null,
+      "dart_corp_code": "01706509"
     },
     {
       "canonical_key": "2026-12-01_엔키화이트햇",
