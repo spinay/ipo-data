@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-31T04:35:54.941Z",
+  "version": "2026-11-01T04:54:31.835Z",
   "count": 46,
   "ipos": [
     {
@@ -697,7 +697,7 @@
       "underwriters": [
         "IBK투자증권"
       ],
-      "status": "upcoming",
+      "status": "forecasting",
       "competition_rate": null,
       "dart_corp_code": "01025617"
     },
@@ -932,7 +932,7 @@
       "underwriters": [
         "대신증권"
       ],
-      "status": "upcoming",
+      "status": "forecasting",
       "competition_rate": null,
       "dart_corp_code": "01706509"
     },
