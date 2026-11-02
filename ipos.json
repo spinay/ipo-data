@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-01T04:54:31.835Z",
+  "version": "2026-11-02T04:48:17.712Z",
   "count": 46,
   "ipos": [
     {
@@ -513,7 +513,7 @@
       "underwriters": [
         "한국투자증권"
       ],
-      "status": "waitingListing",
+      "status": "listed",
       "competition_rate": 1000.07,
       "dart_corp_code": "00579342"
     },
@@ -559,7 +559,7 @@
       "underwriters": [
         "삼성증권"
       ],
-      "status": "forecasting",
+      "status": "subscribing",
       "competition_rate": 840.86,
       "dart_corp_code": "00784184"
     },
@@ -582,7 +582,7 @@
       "underwriters": [
         "미래에셋증권"
       ],
-      "status": "forecasting",
+      "status": "subscribing",
       "competition_rate": 152.36,
       "dart_corp_code": "01835829"
     },
@@ -955,7 +955,7 @@
       "underwriters": [
         "신영증권"
       ],
-      "status": "upcoming",
+      "status": "forecasting",
       "competition_rate": null,
       "dart_corp_code": "01795859"
     },
