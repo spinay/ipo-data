@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-04T05:18:00.889Z",
+  "version": "2026-11-05T05:40:47.695Z",
   "count": 46,
   "ipos": [
     {
@@ -550,7 +550,7 @@
       "subscription_start": "2026-11-02",
       "subscription_end": "2026-11-03",
       "refund_date": "2026-11-05",
-      "listing_date": null,
+      "listing_date": "2026-11-10",
       "price_band_low": 23000,
       "price_band_high": 26500,
       "confirmed_price": 26500,
@@ -559,7 +559,7 @@
       "underwriters": [
         "삼성증권"
       ],
-      "status": "closed",
+      "status": "waitingListing",
       "competition_rate": 840.86,
       "dart_corp_code": "00784184"
     },
@@ -573,7 +573,7 @@
       "subscription_start": "2026-11-02",
       "subscription_end": "2026-11-03",
       "refund_date": "2026-11-05",
-      "listing_date": null,
+      "listing_date": "2026-11-11",
       "price_band_low": 16400,
       "price_band_high": 20200,
       "confirmed_price": 20200,
@@ -582,7 +582,7 @@
       "underwriters": [
         "미래에셋증권"
       ],
-      "status": "closed",
+      "status": "waitingListing",
       "competition_rate": 152.36,
       "dart_corp_code": "01835829"
     },
@@ -605,7 +605,7 @@
       "underwriters": [
         "한국투자증권"
       ],
-      "status": "subscribing",
+      "status": "closed",
       "competition_rate": 66.58,
       "dart_corp_code": "01863318"
     },
@@ -651,7 +651,7 @@
       "underwriters": [
         "한국투자증권"
       ],
-      "status": "forecasting",
+      "status": "subscribing",
       "competition_rate": 1201.81,
       "dart_corp_code": "01658035"
     },
@@ -675,7 +675,7 @@
         "대신증권"
       ],
       "status": "forecasting",
-      "competition_rate": null,
+      "competition_rate": 871.74,
       "dart_corp_code": "01797635"
     },
     {
