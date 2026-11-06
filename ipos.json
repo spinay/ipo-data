@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-05T05:40:47.695Z",
+  "version": "2026-11-06T05:37:52.636Z",
   "count": 46,
   "ipos": [
     {
@@ -628,7 +628,7 @@
       "underwriters": [
         "대신증권"
       ],
-      "status": "subscribing",
+      "status": "closed",
       "competition_rate": 1163.35,
       "dart_corp_code": "00960234"
     },
@@ -674,7 +674,7 @@
       "underwriters": [
         "대신증권"
       ],
-      "status": "forecasting",
+      "status": "subscribing",
       "competition_rate": 871.74,
       "dart_corp_code": "01797635"
     },
