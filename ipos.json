@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-06T05:37:52.636Z",
+  "version": "2026-11-07T05:07:35.610Z",
   "count": 46,
   "ipos": [
     {
@@ -596,7 +596,7 @@
       "subscription_start": "2026-11-03",
       "subscription_end": "2026-11-04",
       "refund_date": "2026-11-06",
-      "listing_date": null,
+      "listing_date": "2026-11-12",
       "price_band_low": 10500,
       "price_band_high": 13000,
       "confirmed_price": 13000,
@@ -605,7 +605,7 @@
       "underwriters": [
         "한국투자증권"
       ],
-      "status": "closed",
+      "status": "waitingListing",
       "competition_rate": 66.58,
       "dart_corp_code": "01863318"
     },
@@ -651,7 +651,7 @@
       "underwriters": [
         "한국투자증권"
       ],
-      "status": "subscribing",
+      "status": "closed",
       "competition_rate": 1201.81,
       "dart_corp_code": "01658035"
     },
