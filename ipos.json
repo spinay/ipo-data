@@ -1,6 +1,6 @@
 {
-  "version": "2026-11-10T06:14:45.360Z",
-  "count": 46,
+  "version": "2026-11-11T05:09:51.516Z",
+  "count": 47,
   "ipos": [
     {
       "canonical_key": "2026-04-20_채비",
@@ -582,7 +582,7 @@
       "underwriters": [
         "미래에셋증권"
       ],
-      "status": "waitingListing",
+      "status": "listed",
       "competition_rate": 152.36,
       "dart_corp_code": "01835829"
     },
@@ -642,7 +642,7 @@
       "subscription_start": "2026-11-05",
       "subscription_end": "2026-11-06",
       "refund_date": "2026-11-10",
-      "listing_date": null,
+      "listing_date": "2026-11-17",
       "price_band_low": 10000,
       "price_band_high": 12000,
       "confirmed_price": 12000,
@@ -651,7 +651,7 @@
       "underwriters": [
         "한국투자증권"
       ],
-      "status": "closed",
+      "status": "waitingListing",
       "competition_rate": 1201.81,
       "dart_corp_code": "01658035"
     },
@@ -744,7 +744,7 @@
         "하나증권"
       ],
       "status": "forecasting",
-      "competition_rate": null,
+      "competition_rate": 187.1,
       "dart_corp_code": "01705740"
     },
     {
@@ -981,6 +981,30 @@
       "status": "upcoming",
       "competition_rate": null,
       "dart_corp_code": "01783687"
+    },
+    {
+      "canonical_key": "2026-12-08_마더스제약",
+      "company_name": "마더스제약",
+      "sector": "IPO",
+      "business_summary": "",
+      "demand_start": null,
+      "demand_end": null,
+      "subscription_start": "2026-12-08",
+      "subscription_end": "2026-12-09",
+      "refund_date": "2026-12-11",
+      "listing_date": null,
+      "price_band_low": 11000,
+      "price_band_high": 14500,
+      "confirmed_price": null,
+      "min_subscription_qty": 10,
+      "deposit_ratio": 0.5,
+      "underwriters": [
+        "KB증권",
+        "NH투자증권"
+      ],
+      "status": "upcoming",
+      "competition_rate": null,
+      "dart_corp_code": "01136597"
     },
     {
       "canonical_key": "2026-12-09_인터엑스",
