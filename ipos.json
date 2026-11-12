@@ -1,6 +1,6 @@
 {
-  "version": "2026-11-11T05:09:51.516Z",
-  "count": 47,
+  "version": "2026-11-12T06:11:28.787Z",
+  "count": 45,
   "ipos": [
     {
       "canonical_key": "2026-04-20_채비",
@@ -605,7 +605,7 @@
       "underwriters": [
         "한국투자증권"
       ],
-      "status": "waitingListing",
+      "status": "listed",
       "competition_rate": 66.58,
       "dart_corp_code": "01863318"
     },
@@ -665,7 +665,7 @@
       "subscription_start": "2026-11-06",
       "subscription_end": "2026-11-09",
       "refund_date": "2026-11-11",
-      "listing_date": null,
+      "listing_date": "2026-11-18",
       "price_band_low": 15700,
       "price_band_high": 17600,
       "confirmed_price": 17600,
@@ -674,7 +674,7 @@
       "underwriters": [
         "대신증권"
       ],
-      "status": "closed",
+      "status": "waitingListing",
       "competition_rate": 871.74,
       "dart_corp_code": "01797635"
     },
@@ -697,32 +697,9 @@
       "underwriters": [
         "IBK투자증권"
       ],
-      "status": "subscribing",
+      "status": "closed",
       "competition_rate": 1051.38,
       "dart_corp_code": "01025617"
-    },
-    {
-      "canonical_key": "2026-11-12_씨앤엠",
-      "company_name": "씨앤엠",
-      "sector": "IPO",
-      "business_summary": "",
-      "demand_start": null,
-      "demand_end": null,
-      "subscription_start": "2026-11-12",
-      "subscription_end": "2026-11-13",
-      "refund_date": "2026-11-17",
-      "listing_date": null,
-      "price_band_low": 10000,
-      "price_band_high": 13000,
-      "confirmed_price": null,
-      "min_subscription_qty": 10,
-      "deposit_ratio": 0.5,
-      "underwriters": [
-        "한국투자증권"
-      ],
-      "status": "upcoming",
-      "competition_rate": null,
-      "dart_corp_code": "00618173"
     },
     {
       "canonical_key": "2026-11-12_엠비디",
@@ -743,33 +720,9 @@
       "underwriters": [
         "하나증권"
       ],
-      "status": "forecasting",
+      "status": "subscribing",
       "competition_rate": 187.1,
       "dart_corp_code": "01705740"
-    },
-    {
-      "canonical_key": "2026-11-12_제이앤티지",
-      "company_name": "제이앤티지",
-      "sector": "IPO",
-      "business_summary": "",
-      "demand_start": null,
-      "demand_end": null,
-      "subscription_start": "2026-11-12",
-      "subscription_end": "2026-11-13",
-      "refund_date": "2026-11-17",
-      "listing_date": null,
-      "price_band_low": 26400,
-      "price_band_high": 31900,
-      "confirmed_price": null,
-      "min_subscription_qty": 10,
-      "deposit_ratio": 0.5,
-      "underwriters": [
-        "대신증권",
-        "NH투자증권"
-      ],
-      "status": "upcoming",
-      "competition_rate": null,
-      "dart_corp_code": "01403198"
     },
     {
       "canonical_key": "2026-11-18_에스에프씨",
@@ -914,29 +867,6 @@
       "dart_corp_code": "01366675"
     },
     {
-      "canonical_key": "2026-12-01_다비오",
-      "company_name": "다비오",
-      "sector": "IPO",
-      "business_summary": "",
-      "demand_start": "2026-11-01",
-      "demand_end": null,
-      "subscription_start": "2026-12-01",
-      "subscription_end": "2026-12-02",
-      "refund_date": "2026-12-04",
-      "listing_date": null,
-      "price_band_low": 12300,
-      "price_band_high": 16600,
-      "confirmed_price": 16600,
-      "min_subscription_qty": 10,
-      "deposit_ratio": 0.5,
-      "underwriters": [
-        "대신증권"
-      ],
-      "status": "forecasting",
-      "competition_rate": null,
-      "dart_corp_code": "01706509"
-    },
-    {
       "canonical_key": "2026-12-01_엔키화이트햇",
       "company_name": "엔키화이트햇",
       "sector": "IPO",
@@ -1005,6 +935,29 @@
       "status": "upcoming",
       "competition_rate": null,
       "dart_corp_code": "01136597"
+    },
+    {
+      "canonical_key": "2026-12-09_다비오",
+      "company_name": "다비오",
+      "sector": "IPO",
+      "business_summary": "",
+      "demand_start": "2026-11-01",
+      "demand_end": null,
+      "subscription_start": "2026-12-09",
+      "subscription_end": "2026-12-10",
+      "refund_date": "2026-12-14",
+      "listing_date": null,
+      "price_band_low": 12300,
+      "price_band_high": 16600,
+      "confirmed_price": 16600,
+      "min_subscription_qty": 10,
+      "deposit_ratio": 0.5,
+      "underwriters": [
+        "대신증권"
+      ],
+      "status": "forecasting",
+      "competition_rate": null,
+      "dart_corp_code": "01706509"
     },
     {
       "canonical_key": "2026-12-09_인터엑스",
