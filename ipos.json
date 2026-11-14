@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-13T05:37:25.817Z",
+  "version": "2026-11-14T05:16:23.103Z",
   "count": 46,
   "ipos": [
     {
@@ -720,7 +720,7 @@
       "underwriters": [
         "하나증권"
       ],
-      "status": "subscribing",
+      "status": "closed",
       "competition_rate": 187.1,
       "dart_corp_code": "01705740"
     },
