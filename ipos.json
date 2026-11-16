@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-15T05:20:34.088Z",
+  "version": "2026-11-16T05:08:21.350Z",
   "count": 46,
   "ipos": [
     {
@@ -628,7 +628,7 @@
       "underwriters": [
         "대신증권"
       ],
-      "status": "waitingListing",
+      "status": "listed",
       "competition_rate": 1163.35,
       "dart_corp_code": "00960234"
     },
