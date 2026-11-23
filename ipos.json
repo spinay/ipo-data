@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-22T05:29:25.978Z",
+  "version": "2026-11-23T06:14:14.246Z",
   "count": 47,
   "ipos": [
     {
@@ -757,10 +757,10 @@
       "demand_end": null,
       "subscription_start": "2026-11-24",
       "subscription_end": "2026-11-25",
-      "refund_date": "2026-11-27",
+      "refund_date": "2026-11-26",
       "listing_date": null,
-      "price_band_low": 15000,
-      "price_band_high": 17800,
+      "price_band_low": null,
+      "price_band_high": null,
       "confirmed_price": 17800,
       "min_subscription_qty": 10,
       "deposit_ratio": 0.5,
@@ -769,7 +769,7 @@
       ],
       "status": "forecasting",
       "competition_rate": null,
-      "dart_corp_code": "01880139"
+      "dart_corp_code": null
     },
     {
       "canonical_key": "2026-11-27_에이엔에이치스트럭쳐",
