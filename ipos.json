@@ -1,6 +1,6 @@
 {
-  "version": "2026-11-23T06:14:14.246Z",
-  "count": 47,
+  "version": "2026-11-24T05:11:57.446Z",
+  "count": 46,
   "ipos": [
     {
       "canonical_key": "2026-04-20_채비",
@@ -720,7 +720,7 @@
       "underwriters": [
         "하나증권"
       ],
-      "status": "waitingListing",
+      "status": "listed",
       "competition_rate": 187.1,
       "dart_corp_code": "01705740"
     },
@@ -734,7 +734,7 @@
       "subscription_start": "2026-11-18",
       "subscription_end": "2026-11-19",
       "refund_date": "2026-11-23",
-      "listing_date": null,
+      "listing_date": "2026-11-30",
       "price_band_low": 21000,
       "price_band_high": 26000,
       "confirmed_price": 19000,
@@ -744,32 +744,9 @@
         "유진증권",
         "신영증권"
       ],
-      "status": "closed",
+      "status": "waitingListing",
       "competition_rate": 173.42,
       "dart_corp_code": "01705573"
-    },
-    {
-      "canonical_key": "2026-11-24_케이엠에프",
-      "company_name": "케이엠에프",
-      "sector": "IPO",
-      "business_summary": "",
-      "demand_start": "2026-11-15",
-      "demand_end": null,
-      "subscription_start": "2026-11-24",
-      "subscription_end": "2026-11-25",
-      "refund_date": "2026-11-26",
-      "listing_date": null,
-      "price_band_low": null,
-      "price_band_high": null,
-      "confirmed_price": 17800,
-      "min_subscription_qty": 10,
-      "deposit_ratio": 0.5,
-      "underwriters": [
-        "IBK투자증권"
-      ],
-      "status": "forecasting",
-      "competition_rate": null,
-      "dart_corp_code": null
     },
     {
       "canonical_key": "2026-11-27_에이엔에이치스트럭쳐",
