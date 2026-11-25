@@ -1,6 +1,6 @@
 {
-  "version": "2026-11-24T08:45:55.548Z",
-  "count": 46,
+  "version": "2026-11-25T07:29:12.698Z",
+  "count": 47,
   "ipos": [
     {
       "canonical_key": "2026-04-20_채비",
@@ -1049,6 +1049,31 @@
       "status": "upcoming",
       "competition_rate": null,
       "dart_corp_code": "01044092"
+    },
+    {
+      "canonical_key": "2026-12-17_범한메카텍",
+      "company_name": "범한메카텍",
+      "sector": "IPO",
+      "business_summary": "",
+      "demand_start": null,
+      "demand_end": null,
+      "subscription_start": "2026-12-17",
+      "subscription_end": "2026-12-18",
+      "refund_date": "2026-12-22",
+      "listing_date": null,
+      "price_band_low": 22800,
+      "price_band_high": 28000,
+      "confirmed_price": null,
+      "min_subscription_qty": 10,
+      "deposit_ratio": 0.5,
+      "underwriters": [
+        "NH투자증권",
+        "유진증권",
+        "BNK투자증권"
+      ],
+      "status": "upcoming",
+      "competition_rate": null,
+      "dart_corp_code": "01182790"
     },
     {
       "canonical_key": "2026-12-17_피지티",
